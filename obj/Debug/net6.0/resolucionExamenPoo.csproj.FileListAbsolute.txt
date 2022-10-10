@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\bin\Debug\net6.0\resolucionExamenPoo.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\bin\Debug\net6.0\resolucionExamenPoo.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\bin\Debug\net6.0\resolucionExamenPoo.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\bin\Debug\net6.0\resolucionExamenPoo.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\bin\Debug\net6.0\resolucionExamenPoo.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\resolucionExamenPoo.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\resolucionExamenPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\resolucionExamenPoo.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\resolucionExamenPoo.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\resolucionExamenPoo.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\resolucionExamenPoo.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\refint\resolucionExamenPoo.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\resolucionExamenPoo.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\resolucionExamenPoo.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\resolucionExamenPoo\obj\Debug\net6.0\ref\resolucionExamenPoo.dll
